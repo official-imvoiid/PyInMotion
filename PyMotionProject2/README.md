@@ -1,5 +1,3 @@
----
-
 # 📝 **Word Counter**  
 
 A simple Python GUI application that counts words in user-inputted text or from a loaded file.  
