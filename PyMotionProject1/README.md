@@ -8,16 +8,16 @@ A simple Python GUI application that helps generate usernames.
 
 Clone the repository, navigate into the project folder, and run the script.  
 
-📌 **For Windows:** Simply double-click `WordCounter.py`—it should execute.  
+📌 **For Windows:** Simply double-click `UsernameGen.py`—it should execute.  
 
 📌 **For Linux (e.g., Kali, Arch):** Open a terminal in the project directory and run:  
 
 ```bash
-python WordCounter.py
+python UsernameGen.py
 ```
 **or**  
 ```bash
-python3 WordCounter.py
+python3 UsernameGen.py
 ```
 
 ✅ **Make sure Python is installed** on your system. No magic, just code.  
