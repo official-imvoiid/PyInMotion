@@ -53,4 +53,3 @@ python3 WordCounter.py
 
 📌 **Datetime Module:**  
 🔗 [https://docs.python.org/3/library/datetime.html](https://docs.python.org/3/library/datetime.html)  
-```
