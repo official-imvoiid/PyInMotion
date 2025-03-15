@@ -11,8 +11,8 @@ A simple and efficient **Expense Tracker** built with **Python** to help you man
 ✔️ **Simple CLI Interface** – Easy to navigate and interact with.
 
 ## 🛠 Installation  
+```bash
 1️⃣ Clone this repository:  
-   ```bash
    git clone https://github.com/official-imvoiid/PyInMotion.git
    cd PyInMotion
    cd PyMotionProject3
