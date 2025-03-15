@@ -61,7 +61,6 @@ Combining Python (for AI models) with C++ (for speed)
 
 As I grow, my goal is to **merge Python’s flexibility with C++’s power** to build **scalable, high-performance applications**.  
 
----
 
 ## 🔧 **How to Use This Repository**  
 1️⃣ **Clone the repository**  
