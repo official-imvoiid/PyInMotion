@@ -17,7 +17,8 @@ A simple and efficient **Expense Tracker** built with **Python** to help you man
    cd PyInMotion
    cd PyMotionProject3
 2️⃣ Ensure you have **Python 3.x** installed.  
-3️⃣ Run the script:  
+3️⃣ Run the script:
+   ```
    ```bash
    python ExpenseTracker.py
    ```
