@@ -39,6 +39,7 @@ The application provides an **interactive way to count words** and display their
    ```bash
    git clone https://github.com/official-imvoiid/PyInMotion.git
    cd PyInMotion
+   cd PyMotionProject2
    ```
 2️⃣ **Run the script**:  
    ```bash
