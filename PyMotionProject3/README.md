@@ -14,13 +14,10 @@ A simple and efficient **Expense Tracker** built with **Python** to help you man
 ```bash
 1️⃣ Clone this repository:  
    git clone https://github.com/official-imvoiid/PyInMotion.git
-   cd PyInMotion
-   cd PyMotionProject3
+         cd PyInMotion
+         cd PyMotionProject3
 2️⃣ Ensure you have **Python 3.x** installed.  
-3️⃣ Run the script:
-   ```
-   ```bash
-   python ExpenseTracker.py
+3️⃣ Run the script: python ExpenseTracker.py
    ```
 
 ## 📂 File Structure  
