@@ -16,7 +16,8 @@ A Python-based virtual coin toss application with a graphical user interface (GU
 
 1. **Clone the repository**:
    ```sh
-   https://github.com/official-imvoiid/PyInMotion.git
+   git clone https://github.com/official-imvoiid/PyInMotion.git
+   cd PyInMotion
    cd PyMotionProject4
    ```
 
@@ -51,7 +52,7 @@ A Python-based virtual coin toss application with a graphical user interface (GU
 
 - **CoinToss.py** → Main script handling the GUI and coin toss logic.
 - **Gui.png** → Screenshot of the application.
-- **tossresult.md** → Automatically generated file with coin toss results.
+- **TossResult.md** → Automatically generated file with coin toss results.
 
 ## License
 
